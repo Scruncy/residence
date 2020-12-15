@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/residence/static/css/main.34c87b24.chunk.css",
-    "main.js": "/residence/static/js/main.4a38b5f1.chunk.js",
-    "main.js.map": "/residence/static/js/main.4a38b5f1.chunk.js.map",
+    "main.css": "/residence/static/css/main.761c8acf.chunk.css",
+    "main.js": "/residence/static/js/main.7f46e451.chunk.js",
+    "main.js.map": "/residence/static/js/main.7f46e451.chunk.js.map",
     "runtime-main.js": "/residence/static/js/runtime-main.9a77515e.js",
     "runtime-main.js.map": "/residence/static/js/runtime-main.9a77515e.js.map",
     "static/css/2.41daee26.chunk.css": "/residence/static/css/2.41daee26.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.00f93860.chunk.js.map": "/residence/static/js/2.00f93860.chunk.js.map",
     "index.html": "/residence/index.html",
     "static/css/2.41daee26.chunk.css.map": "/residence/static/css/2.41daee26.chunk.css.map",
-    "static/css/main.34c87b24.chunk.css.map": "/residence/static/css/main.34c87b24.chunk.css.map",
+    "static/css/main.761c8acf.chunk.css.map": "/residence/static/css/main.761c8acf.chunk.css.map",
     "static/js/2.00f93860.chunk.js.LICENSE.txt": "/residence/static/js/2.00f93860.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/residence/static/media/outline-icons.ddae9b1b.woff"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.9a77515e.js",
     "static/css/2.41daee26.chunk.css",
     "static/js/2.00f93860.chunk.js",
-    "static/css/main.34c87b24.chunk.css",
-    "static/js/main.4a38b5f1.chunk.js"
+    "static/css/main.761c8acf.chunk.css",
+    "static/js/main.7f46e451.chunk.js"
   ]
 }
