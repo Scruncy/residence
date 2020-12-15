@@ -36,7 +36,7 @@ function Footer(){
   return (
     <div className="container-fluid barranavigazione contatti">
   <div className="row">
-    <div className="col-lg-6 center allineatore">
+    <div className="col-lg-6 center2 allineatore">
 
       <p className="contattami testo"> <MailOutlineIcon /> info@residencesaratrieste.com </p>
       <p className="contattami testo"> <PhoneIcon /> +39 3274475405 </p>

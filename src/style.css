@@ -26,6 +26,12 @@
   padding: 10px;
 }
 
+.center2 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 .collegamentiBarra {
   font-size: 20px;
   color: black;
@@ -106,6 +112,10 @@
 @media screen and (max-width: 991px) {
   .hiddenElement{      /* usa questa classe per nascondere un elemento*/
     display: none;
+  }
+
+  .center2{
+    width: 100%;
   }
 
   .showElement{
